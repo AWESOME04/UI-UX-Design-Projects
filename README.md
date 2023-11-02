@@ -28,6 +28,12 @@ StudentConnect is the ultimate solution to streamline the student experience. Fr
 
 🔗 [StudentConnect](https://www.figma.com/file/8Bcyd0u3wEWXTygWfJ6Z36/StudentConnect?type=design&node-id=0%3A1&mode=design&t=RbfukFCTuum6bFxx-1)
 
+### XCelsz Website Prototype 🌐
+
+XCelsz is an Agile Technology and Consultancy Firm that dedicates 30% of its time to developing its digital products and 70% of its time to helping others do the same. Their mission is to be the Go-To digital solutions company worldwide, and their vision is to transform the way business is done.
+
+🔗 [XCelsz Website Prototype](https://www.figma.com/file/TZoyxFiikdrPVLEARMH8jA/Xcelsz-TPV?type=design&node-id=0%3A1&mode=design&t=i6LYb4mptdnol9UI-1)
+
 ## 🚀 Get Inspired, Get Connected
 
 Feel free to explore, provide feedback, or even collaborate. These designs are a testament to my passion for crafting user-friendly interfaces that stand out. Let's continue to push the boundaries of design excellence together. 🌟✨
