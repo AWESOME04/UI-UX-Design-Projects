@@ -5,6 +5,7 @@ This repository is a treasure trove of my creative and user-centered UI/UX desig
 ## 🌐 Project Portfolio
 
 ### Techintran Website Prototype 🚀
+![07_Gallery](https://github.com/AWESOME04/UI-UX-Design-Projects/assets/102630199/c490b110-3a17-4aea-8824-7f82afe5c188)
 
 Techintran Company Limited, based in Accra, Ghana, is a technology powerhouse. They specialize in software, applications, video production, and more. Explore the future of technology with their website prototype:
 
@@ -12,17 +13,23 @@ Techintran Company Limited, based in Accra, Ghana, is a technology powerhouse. T
 
 ### Tech Stars Community Web Prototype 🌟
 
+![Landing page](https://github.com/AWESOME04/UI-UX-Design-Projects/assets/102630199/29a42435-e4d3-441c-aa3d-1b69b3d8e50e)
+
 Tech Stars is a vibrant community of tech enthusiasts working together to learn, build, connect, and grow. Discover the prototype of a tech-focused home:
 
 🔗 [Tech Stars Community Web Prototype](https://www.figma.com/file/ASHjVEqo1eIkKaR5sCf0NI/Tech-stars-open-source-website?type=design&node-id=0%3A1&mode=design&t=c8BIhwdH8iGv3c5S-1)
 
 ### Street Fund Global Foundation 🏡
 
+![Gallery](https://github.com/AWESOME04/UI-UX-Design-Projects/assets/102630199/4095b087-7c00-475e-9128-66d2f07ee76c)
+
 Street Fund Global Foundation is on a mission to create a better home environment for street children and support those in need. Their vision comes to life through this design project:
 
 🔗 [Street Fund Global Foundation](https://www.figma.com/file/5PshTrKPGeVTLqMsDfFscb/Street-Foundation?type=design&node-id=0%3A1&mode=design&t=FrvSrXVO7bsJD8qw-1)
 
 ### StudentConnect 🎓
+
+![Onboarding](https://github.com/AWESOME04/UI-UX-Design-Projects/assets/102630199/e31cae43-b392-4fde-bb2e-b13bf3b8cf87)
 
 StudentConnect is the ultimate solution to streamline the student experience. From academics to social life, it's all here. Explore the design that simplifies it all:
 
