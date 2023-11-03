@@ -1,6 +1,6 @@
 # ✨ Welcome to My UI/UX Design Showcase! ✨
 
-This repository is a treasure trove of my creative and user-centered UI/UX design projects. Dive into a world of innovation and aesthetics as I present a glimpse of my design journey.
+This repository is a treasure trove of my creative and user-centered UI/UX design projects. Dive into a world of innovation and aesthetics as I present a glimpse of my design journey...
 
 ## 🌐 Project Portfolio
 
@@ -36,6 +36,8 @@ StudentConnect is the ultimate solution to streamline the student experience. Fr
 🔗 [StudentConnect](https://www.figma.com/file/8Bcyd0u3wEWXTygWfJ6Z36/StudentConnect?type=design&node-id=0%3A1&mode=design&t=RbfukFCTuum6bFxx-1)
 
 ### XCelsz Website Prototype 🌐
+
+<img width="656" alt="xcelsz" src="https://github.com/AWESOME04/UI-UX-Design-Projects/assets/102630199/4539942a-dc1e-4b9c-9fcd-2fc8b76296c0">
 
 XCelsz is an Agile Technology and Consultancy Firm that dedicates 30% of its time to developing its digital products and 70% of its time to helping others do the same. Their mission is to be the Go-To digital solutions company worldwide, and their vision is to transform the way business is done.
 
