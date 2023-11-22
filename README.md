@@ -1,6 +1,6 @@
 # ✨ Welcome to My UI/UX Design Showcase! ✨
 
-This repository is a treasure trove of my creative and user-centered UI/UX design projects. Dive into a world of innovation and aesthetics as I present a glimpse of my design journey...
+This repository is a treasure trove of my creative and user-centered UI/UX design projects designed with Figma. Dive into a world of innovation and aesthetics as I present a glimpse of my design journey...
 
 ## 🌐 Project Portfolio
 
