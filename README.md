@@ -42,7 +42,7 @@ StudentConnect is the ultimate solution to streamline the student experience. Fr
 XCelsz is an Agile Technology and Consultancy Firm that dedicates 30% of its time to developing its digital products and 70% of its time to helping others do the same. Their mission is to be the Go-To digital solutions company worldwide, and their vision is to transform the way business is done.
 
 
-### Domino's Pizza Redesign
+### Domino's Pizza Redesign 🍕
 
 <img width="534" alt="domino's pizza" src="https://github.com/AWESOME04/UI-UX-Design-Projects/assets/102630199/4ca9a1b4-e681-4fbb-800f-b8e5a1eefa3a">
 
