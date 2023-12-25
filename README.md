@@ -41,6 +41,8 @@ StudentConnect is the ultimate solution to streamline the student experience. Fr
 
 XCelsz is an Agile Technology and Consultancy Firm that dedicates 30% of its time to developing its digital products and 70% of its time to helping others do the same. Their mission is to be the Go-To digital solutions company worldwide, and their vision is to transform the way business is done.
 
+🔗 [XCelsz Website Prototype](https://www.figma.com/file/TZoyxFiikdrPVLEARMH8jA/Xcelsz-TPV?type=design&node-id=0%3A1&mode=design&t=i6LYb4mptdnol9UI-1)
+
 
 ### Domino's Pizza Redesign 🍕
 
@@ -49,9 +51,6 @@ XCelsz is an Agile Technology and Consultancy Firm that dedicates 30% of its tim
 The purpose of the evaluation and redesign of Domino's Pizza website/app is to improve its user experience by addressing specific issues related to user interface, functionality, and aesthetics. The goal is to streamline navigation, enhance visual appeal, and optimize the ordering flow, ultimately creating a more user-friendly and efficient platform for customers to explore the menu, customize orders, and complete purchases with ease.
 
 🔗 [Domino's Pizza Redesign](https://www.figma.com/file/kcz6edArMFMQY0TSCdKdN6/Domino's-Pizza%3A%3A-Redesign?type=design&node-id=1102%3A2436&mode=design&t=Azf6PnYzhuMOa6dZ-1)
-
-
-🔗 [XCelsz Website Prototype](https://www.figma.com/file/TZoyxFiikdrPVLEARMH8jA/Xcelsz-TPV?type=design&node-id=0%3A1&mode=design&t=i6LYb4mptdnol9UI-1)
 
 ## 🚀 Get Inspired, Get Connected
 
