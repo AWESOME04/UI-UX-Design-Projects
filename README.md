@@ -52,6 +52,15 @@ The purpose of the evaluation and redesign of Domino's Pizza website/app is to i
 
 🔗 [Domino's Pizza Redesign](https://www.figma.com/file/kcz6edArMFMQY0TSCdKdN6/Domino's-Pizza%3A%3A-Redesign?type=design&node-id=1102%3A2436&mode=design&t=Azf6PnYzhuMOa6dZ-1)
 
+### Product BETHEME 2014
+
+<img width="959" alt="Screenshot 2023-12-31 201958" src="https://github.com/AWESOME04/UI-UX-Design-Projects/assets/102630199/d4df757e-165b-4c7f-93a1-2be5f4333e9c">
+
+This is an interactive web prototype for a product based company focused on hand sanitizers. The design prioritizes responsiveness for a seamless experience across devices, maintaining consistent branding elements to reinforce the company's commitment to hygiene and health.
+
+🔗 [Product BETHEME](https://www.figma.com/proto/lygBw4yUSWEp0wLYNrjwyc/Muffin?page-id=0%3A1&type=design&node-id=1-2&viewport=521%2C181%2C0.26&t=CsaFd2lEjYBhHTfh-1&scaling=min-zoom&starting-point-node-id=1%3A2&mode=design)
+
+
 ## 🚀 Get Inspired, Get Connected
 
 Feel free to explore, provide feedback, or even collaborate. These designs are a testament to my passion for crafting user-friendly interfaces that stand out. Let's continue to push the boundaries of design excellence together. 🌟✨
