@@ -11,13 +11,13 @@ Techintran Company Limited, based in Accra, Ghana, is a technology powerhouse. T
 
 🔗 [Techintran Website Prototype](https://www.figma.com/file/iaDQYy7co6uSK9bZWyisSQ/Techintran-Website-Prototype---Main?type=design&node-id=0%3A1&mode=design&t=WKCuiIdqPA5fSkEn-1)
 
-### Tech Stars Community Web Prototype 🌟
+### SKILLHUB Web Prototype 🌟
 
-![Landing page](https://github.com/AWESOME04/UI-UX-Design-Projects/assets/102630199/29a42435-e4d3-441c-aa3d-1b69b3d8e50e)
+<img width="548" alt="Screenshot 2024-01-13 084529" src="https://github.com/AWESOME04/UI-UX-Design-Projects/assets/102630199/a6466744-06cd-4f6a-9add-e9e88d32324b">
 
-Tech Stars is a vibrant community of tech enthusiasts working together to learn, build, connect, and grow. Discover the prototype of a tech-focused home:
+SkillHub is a comprehensive e-learning web application designed to facilitate a dynamic educational experience for both students and instructors. The platform encompasses various features aimed at enhancing the learning process, fostering engagement, and simplifying task management.
 
-🔗 [Tech Stars Community Web Prototype](https://www.figma.com/file/ASHjVEqo1eIkKaR5sCf0NI/Tech-stars-open-source-website?type=design&node-id=0%3A1&mode=design&t=c8BIhwdH8iGv3c5S-1)
+🔗 [SKILLHUB Web Prototype](https://www.figma.com/file/jWK0xJcNZk4r2kL8xfj0Vl/SKILLHUB?type=design&node-id=65%3A12&mode=design&t=E6g9qyZlhEnemTRH-1)
 
 ### Street Fund Global Foundation 🏡
 
