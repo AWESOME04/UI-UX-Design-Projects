@@ -52,6 +52,15 @@ The purpose of the evaluation and redesign of Domino's Pizza website/app is to i
 
 🔗 [Domino's Pizza Redesign](https://www.figma.com/file/kcz6edArMFMQY0TSCdKdN6/Domino's-Pizza%3A%3A-Redesign?type=design&node-id=1102%3A2436&mode=design&t=Azf6PnYzhuMOa6dZ-1)
 
+### CampusChoice 🫵
+
+<img width="543" alt="image" src="https://github.com/AWESOME04/UI-UX-Design-Projects/assets/102630199/4ee79d76-f261-4fbf-b868-2d4e9f56ee64">
+
+CampusChoice boasts an intuitive UI designed for college students to effortlessly participate in various elections. The login screen offers traditional and social media login options, leading to a user-friendly dashboard highlighting ongoing and upcoming elections. Creating elections is simplified through a clear form, and the election list ensures easy navigation. The voting interface is straightforward, providing clear instructions and an intuitive voting mechanism. Overall, CampusChoice offers a visually appealing and efficient platform for seamless student group elections on college campuses.
+
+🔗 [CampusChoice](https://www.figma.com/proto/PaWJz1Wv6RuqpyjfEcKQPp/CampusChoice---voting-app?page-id=0%3A1&type=design&node-id=1-2&viewport=1271%2C-1161%2C0.57&t=qsPnoPQV4UjI7H7r-1&scaling=min-zoom&starting-point-node-id=1%3A2&mode=design)
+
+
 ### Product BETHEME 2014
 
 <img width="959" alt="Screenshot 2023-12-31 201958" src="https://github.com/AWESOME04/UI-UX-Design-Projects/assets/102630199/d4df757e-165b-4c7f-93a1-2be5f4333e9c">
