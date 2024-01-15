@@ -60,6 +60,14 @@ CampusChoice boasts an intuitive UI designed for college students to effortlessl
 
 🔗 [CampusChoice](https://www.figma.com/proto/PaWJz1Wv6RuqpyjfEcKQPp/CampusChoice---voting-app?page-id=0%3A1&type=design&node-id=1-2&viewport=1271%2C-1161%2C0.57&t=qsPnoPQV4UjI7H7r-1&scaling=min-zoom&starting-point-node-id=1%3A2&mode=design)
 
+### CJRA Foundation
+
+<img width="522" alt="image" src="https://github.com/AWESOME04/UI-UX-Design-Projects/assets/102630199/ba2893ee-afa1-49f4-a032-ebb17ee0f9ba">
+
+CJRA Foundation is a non-profit organization that is committed to making a positive impact in the lives of individuals and communities in Ghana. Our focus areas include health, education, youth and women empowerment, disability and prison inmate support, as well as charity and community support. We are dedicated to creating a better world for all, and we strive to achieve this through our various programs and initiatives.
+
+🔗 [CJRA Foundation](https://www.figma.com/proto/6IjE99wJbFriDtyEE7YBcv/CJRA-Foundation-Prototype?page-id=0%3A1&type=design&node-id=1-744&viewport=545%2C3981%2C0.27&t=4To7QDbci54Lj4ac-1&scaling=scale-down-width&starting-point-node-id=1%3A74&mode=design)
+
 
 ### Product BETHEME 2014
 
